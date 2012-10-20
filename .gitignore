@@ -1,0 +1,6 @@
+.rspec
+results
+tags
+.*.sw[op]
+Gemfile.lock
+_site
