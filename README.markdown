@@ -1,4 +1,5 @@
 # Overview #
 
-This is the repository for [Jeff McCune](https://jeffmccune.github.com/)
+This is the source repository for [Jeff McCune](http://www.metamachine.net)'s
+website.
 
